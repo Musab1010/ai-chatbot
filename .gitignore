@@ -1,0 +1,37 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Flutter
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/app/debug
+android/app/profile
+android/app/release
+
+# VS Code
+.vscode/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
